@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 iacs Iris Alejandra Chicas Simeones
+=======
+sgl - Sindy Guzman Lopez
+s
+>>>>>>> a183528125ffd413c6464cedcae6db273a4aea4f
