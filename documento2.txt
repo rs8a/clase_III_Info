@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 aosp-Arlan Onevis sabillon Paz
+=======
+oyaf Osiris Yamileth Alvarado Flores
+>>>>>>> b38526c0f5cd4dc9527378fdd29e6a1d9c72927e
