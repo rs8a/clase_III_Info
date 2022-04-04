@@ -1,5 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 oyaf Osiris Yamileth Alvarado Flores
 =======
 aosp-Arlan Onevis sabillon Paz
 >>>>>>> d4b255d2ec1382fd7e0bce72540dc61c80635c1c
+=======
+aosp-Arlan Onevis sabillon Paz
+=======
+oyaf Osiris Yamileth Alvarado Flores
+>>>>>>> b38526c0f5cd4dc9527378fdd29e6a1d9c72927e
+>>>>>>> 38467967a73816c31ff709354955143419abc862
