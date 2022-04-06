@@ -1,1 +1,5 @@
+<<<<<<< .merge_file_a11304
 gnem-Griseldy Nicole Euceda Muñoz 
+=======
+medv-María Elizabeth Durón Ventura
+>>>>>>> .merge_file_a06568
