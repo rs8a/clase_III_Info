@@ -1,3 +1,7 @@
 Sindy Guzman
 Iris Simeones
+<<<<<<< HEAD
 "LISTO"
+=======
+¨LISTO¨
+>>>>>>> 1ddf880ca0c361dc9e313f1f236c887bedc98160
