@@ -1,0 +1,11 @@
+git log
+git branch
+git branch nombre_de_la_rama
+git branch -d nombre_de_la_rama
+git checkout -b nombre_de_la_rama
+git checkout nombre_de_la_rama
+git status
+git add .
+git commit -m "mensaje"
+git push origin rama
+git pull origin
