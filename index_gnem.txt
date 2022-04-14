@@ -1,0 +1,22 @@
+git init
+git log
+git branch
+git branch nombre_de_la_rama
+git branch -d nombre_de_la_rama
+git branch -D nombre_de_la_rama
+git checkout -b nombre_de_la_rama
+git checkout nombre_de_la_rama
+git status
+git status -u
+git add .
+git add location/file
+git commit -m "mensaje"
+it commit -- amend
+git merge rama_a_mezclar
+git merge rama_a_mezclar --no-ff
+git push origin rama_a_enviar
+git push --progress origin --force
+git stash
+git stash pop
+git stash drop
+cd 
