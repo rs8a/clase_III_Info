@@ -1,0 +1,22 @@
+Git add .
+Git commit -m
+Git push origin
+Git pull origin
+git branch
+git branch 
+Git branch -d 
+Git checkout
+Git merge rama_a_mezclar
+Git init
+Git log 
+Git branch -D
+Git checkout -b
+Git status
+git status -u
+git add location/file
+it commit-amend
+git merge rama_a_mezclar-no-ff
+git stash
+git master
+git stash
+git push-progress origin-force
