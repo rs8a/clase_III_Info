@@ -1,0 +1,16 @@
+Comandos en practica
+git init
+git log
+git branch nombre_de_la_rama
+git branch -d Eliminar una rama  / -D Borrado de completo
+git status 
+git checkout -b  nombre_de_la_rama
+git checkout nombre_de_la_rama
+git add .
+git pull origin 
+git push origin rama
+git stash 
+git status -u
+git add location/file
+git commit -m "mensaje"
+git merge rama_a_remplazar 
